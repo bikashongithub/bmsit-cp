@@ -40,7 +40,7 @@ const About = () => {
                 </div>
                 {/* </div> */}
             </section>
-            <div className="bg-white mt-24">
+            <div className="bg-white mt-18">
                 <div className="text-center w-full px-4 sm:px-6 z-20">
                     <h2 className="text-3xl font-extrabold text-black sm:text-4xl">
                         <span className="block">Want to Contribute?</span>
